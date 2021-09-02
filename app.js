@@ -1,9 +1,6 @@
 // Node Package Modules
 const mysql = require('mysql2');
 const inquirer = require('inquirer');
-const { listenerCount } = require('events');
-const ctable = require('console.table');
-const { connect } = require('http2');
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 /////////////////////// ADD USERNAME AND PASSWORD TO CONNECITON ///////////////////////////////////
@@ -12,8 +9,8 @@ const { connect } = require('http2');
 const connection = mysql.createConnection({
     host: 'localhost',
     port: 3306,
-    user: '',
-    password: '',
+    user: 'root',
+    password: 'password',
     database: 'tracker'
 })
 connection.connect(err => { if (err) throw err });
