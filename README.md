@@ -15,7 +15,7 @@ With Employee Tracker, the user has the ability to create departments, titles wi
 * [Questions](#questions)
 
 ## Technologies
-* Javascript
+* JavaScript
 * Inquirer.js
 * mySQL
 
