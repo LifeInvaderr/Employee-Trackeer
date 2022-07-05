@@ -5,7 +5,7 @@ Url to this repository: https://github.com/LifeInvaderr/Employee-Trackeer
 ![image](images/Employee-Tracker.PNG)
 
 ## Description
-With Employee Tracker, the user has the ability to create Departemnts, Titles within those departments, and the employees who hold that title
+With Employee Tracker, the user has the ability to create departments, titles within those departments, and the employees who hold that title.
 
 
 ## Table of Contents
