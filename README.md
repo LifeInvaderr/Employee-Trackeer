@@ -17,7 +17,7 @@ With Employee Tracker, the user has the ability to create departments, titles wi
 ## Technologies
 * JavaScript
 * Inquirer.js
-* mySQL
+* MySQL
 
 ## Installation
 To install this repository, please either clone or install the zip version.
